@@ -54,7 +54,7 @@ function VerifyEmail() {
           {/* loader showing */}
           {loading && (<Loading />)}
 
-          {/* error showing */}
+          {/* error shdowing */}
           {error && (
             <Result
               status='500'
